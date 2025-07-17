@@ -1,29 +1,16 @@
 # Hi, I'm Atharva Gawali! ✔️
 
-**DevOps Enthusiast | AWS Learner | Full-Stack Developer (Flutter + Web Apps) | CBC Content Team Member**
+**DevOps Practitioner | AWS Cloud Practitioner Learner | Full-Stack Developer**
 
-- 🛠️ Experienced in building scalable web and mobile applications using Flutter and modern web stacks.
-- ⚙️ Passionate about DevOps practices, CI/CD automation, and cloud technologies.
-- 🌩️ Currently learning and working with AWS cloud solutions.
-- 📝 Active member of the CBC Content Team.
-- 🎓 Studying at MIT ADT University, Pune, Maharashtra.
+- Experienced in DevOps, CI/CD, and cloud technologies
+- Building web and mobile apps with Flutter and modern stacks
+- Learning AWS and MLOps
+- CBC Content Team Member
+- MIT ADT University, Pune
 
-## 📌 What I Do
-- Develop full-stack applications with a focus on performance and reliability.
-- Automate deployments and workflows for efficient software delivery.
-- Architect cloud solutions to improve scalability and security.
-- Contribute to technical content and community initiatives.
-
-## 🌱 Currently Learning
-- DevOps best practices
-- AWS cloud services
-- MLOps in future
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) *(add your LinkedIn URL)*
-- Location: Pune, Maharashtra
-- Education: MIT ADT University
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/atharva-gawali-b0a468233/)
+- Pune, Maharashtra
 
 ---
-
-_Thanks for visiting! Let’s build something amazing together!_
+_Let’s build something amazing together!_
